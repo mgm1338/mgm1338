@@ -127,7 +127,7 @@ I build and lead engineering teams solving complex distributed systems challenge
 
 ## 🚀 Side Projects
 
-**SecondBrain - Healthcare Diagnostics Platform** (2025)
+**[SecondBrain](https://github.com/secondbrainhealth/secondbrain) - Healthcare Diagnostics Platform** (2025)
 - Built to solve my own gut health diagnosis challenges where getting answers shouldn't take years
 - Bayesian inference platform for GI diagnosis using odds space mathematics
 - Full-stack: Ruby on Rails, React, Python
