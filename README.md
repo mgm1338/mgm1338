@@ -116,7 +116,7 @@ I build and lead engineering teams solving complex distributed systems challenge
 - **[xiph/flac](https://github.com/xiph/flac):** Contributed Intel-threaded optimizations for FLAC lossless audio codec (since replaced with C++17 standard library features). FLAC is widely used for high-quality audio compression.
 
 **Current Activity:**
-- **OpenEMR:** Active user and contributor in the open-source electronic medical records space. Contribute general features upstream when identifying improvements during real-world usage.
+- **[openemr/openemr](https://github.com/openemr/openemr):** Active user and contributor in the open-source electronic medical records space. Contribute general features upstream when identifying improvements during real-world usage.
 
 **Note on Repository Activity:**
 - Many of my professional projects are protected by non-compete agreements and remain private/proprietary
