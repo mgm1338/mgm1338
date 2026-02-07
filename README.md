@@ -164,19 +164,19 @@ I build and lead engineering teams solving complex distributed systems challenge
 
 ## 📊 Leadership Philosophy
 
-**Engineering Leadership:**
-- Servant leadership: unblock teams, provide context, enable autonomy
-- Data driven decision making with qualitative context
-- Balance between velocity, quality, and business impact
-- Build for 10x scale, but ship incrementally
-- Strong engineering culture equals retention equals outcomes
+**How I Lead Teams:**
 
-**Technical Approach:**
-- Proven technology over shiny new tools
-- Observability first: instrument everything, debug with data
-- Security and compliance by default, not bolted on
-- Optimize for maintainability and operational simplicity
-- Measure impact: latency, cost, reliability, developer velocity
+Servant leadership approach: I unblock teams, provide context, and enable autonomy rather than dictate solutions. Data driven decision making balanced with qualitative context (numbers tell you what, people tell you why). I focus on building strong engineering culture because culture drives retention, and retention drives outcomes.
+
+My teams balance velocity with quality and business impact. We build for 10x scale but ship incrementally to learn fast and adjust.
+
+**How I Make Technical Decisions:**
+
+I choose proven technology over shiny new tools. Boring tech wins because it's debuggable, maintainable, and has a community when things break.
+
+Observability comes first: instrument everything, debug with data, not guesses. Security and compliance are built in from day one, not bolted on later. I optimize for maintainability and operational simplicity over clever solutions.
+
+I measure what matters: latency (user experience), cost (business impact), reliability (trust), and developer velocity (team health).
 
 ---
 
