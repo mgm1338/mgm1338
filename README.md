@@ -1,216 +1,64 @@
 # Hi, I'm Max 👋
 
-## Senior Engineering Manager | Platform Engineering | Identity & Authentication | Healthcare Tech
+## Senior Engineering Manager | 15+ Years | AI, Platform, Distributed Systems
 
-I build and lead engineering teams solving complex distributed systems challenges in healthcare, financial services, and high growth startups. 17 years experience scaling organizations from 1 to 25+ engineers, architecting identity and authentication systems and platform infrastructure at scale, and driving business outcomes with measurable impact.
+I build engineering teams that ship and I keep the people I hire. 90%+ retention across every team I've led. Currently shipping AI features saving $1.2M+ monthly at Agero. Previously scaled an org from 1 to 25+ engineers at Spring Health.
 
-**./max**
-
----
-
-## 🎯 Engineering Leadership
-
-**Team Building & Scaling:**
-- Scaled engineering teams from 1 to 25+ engineers across multiple organizations
-- Achieved 90%+ retention rates, outperforming peer teams by 20 to 30%
-- Built high performing, collaborative engineering cultures in remote first environments
-- Led cross functional teams across platform, infrastructure, data, and product engineering
-- Mentored engineers to senior and leadership positions
-
-**Technical Strategy & Execution:**
-- Architected identity and authentication systems serving 10M+ annual requests with 99.99% SLA
-- Led HIPAA compliance audits coordinating across engineering, legal, security, and operations
-- Drove REST to GraphQL migrations and Rails upgrades serving millions of users
-- Built custom EHR systems handling patient data for mental health platforms
-- Designed observability infrastructure reducing MTBF from 4 to 37 days
-
-**Business Impact:**
-- Delivered $2M+ in cost savings through infrastructure optimization and serverless architecture
-- Reduced backend latency 80% (800ms → 150ms) improving user experience
-- Built calendar service for 10,000+ providers serving millions of patients, saving $500K annually
-- Improved scheduling latency 80% (1s → 200ms) through system optimization
-- Reduced infrastructure costs 85% through architectural improvements
+Founded 3 companies. MBA from Michigan Ross. BSE Computer Science from Michigan. Still write code.
 
 ---
 
-## 🔧 Technical Expertise
+## What I've Done
 
-**Identity & Access Management:**
-- Authentication systems at scale (SSO, OAuth, multifactor authentication)
-- Security audits and compliance (HIPAA, SOC 2)
-- Zero trust security architectures
-- Authorization and access control for multitenant platforms
+**Agero** | Senior Engineering Manager | 2024 to Present
+- 4 AI features shipped, each saving $300K+/month ($1.2M+ total monthly impact)
+- 10M+ annual requests, 99.99% SLA
+- Evaluate and select AI/ML models for platform integration
 
-**Distributed Systems & Platform Engineering:**
-- Event driven architectures and microservices design
-- High availability systems (99.99% SLA)
-- Observability and monitoring (Datadog, metrics driven operations)
-- Platform infrastructure for developer velocity
-- GraphQL API design and REST to GraphQL migrations
+**Spring Health** | Associate Director / Senior SEM | 2021 to 2024
+- Scaled platform team from 1 to 25+ engineers, 90%+ retention
+- $500K annual savings, 80% latency reduction, HIPAA audit passed
+- MTBF improved from 4 to 37 days (825% improvement)
+- Infrastructure costs cut 85% through serverless migration
 
-**Performance Optimization:**
-- Built zero garbage collection systems for high frequency trading
-- Reduced query performance by 40 to 90% through optimization
-- In memory data aggregation for low latency requirements
-- Database optimization and architecture
+**Integral (Ford AV Lab)** | SEM | 2019 to 2021
+- Built sensor data capture pipelines for autonomous vehicles on AWS Lambda
+- Python analytics pipeline for AV simulation runs
+- 85% infrastructure cost reduction
 
-**Technology Stack:**
-- **Languages:** Ruby, Python, Go, JavaScript, Java (past), C++ (past), COBOL to Java migrations
-- **Cloud & Infrastructure:** AWS (Lambda, EC2, ECS, RDS, S3), Kubernetes, serverless architectures
-- **Data:** PostgreSQL, MySQL, Redis, data pipelines, analytics
-- **Observability:** Datadog, metrics, logging, distributed tracing
-- **Frameworks:** Ruby on Rails, React, microservices patterns
-- **Domains:** Identity and Auth, Platform Infrastructure, Healthcare (EHR, HIPAA), FinTech (Trading Systems)
+**CloakHire** | Founder & CTO | 2016 to 2020
+- B2B SaaS. $350K seed. Sole technical leader. Built the whole thing.
+
+**Deutsche Bank / UBS** | 2009 to 2013
+- Zero garbage collection framework for high frequency trading (90% performance improvement)
+- Billions in daily trade volume processed
+- COBOL to Java migration saving $2M/month at UBS
 
 ---
 
-## 💼 Professional Background
+## Side Projects
 
-**Agero, Inc.** | Senior Engineering Manager (Nov 2024 to Present) | Remote
-- Leading cross functional engineering organization of 9 engineers serving 10M+ annual requests with 99.99% SLA
-- Driving technical strategy for authentication systems, security audits, and platform modernization
-- Owning architecture decisions for REST to GraphQL migration and Rails platform upgrades serving millions of users
-
-**Spring Health** | Associate Director of Software Engineering (Oct 2023 to Jul 2024) | Remote
-- Led engineering organization of 25+ engineers across Platform, Revenue Cycle Operations, and Data Infrastructure
-- Built calendar service for 10,000+ providers serving millions of patients with 80% latency reduction
-- Led HIPAA compliance audit coordinating across engineering, legal, security, and operations teams
-- Implemented observability infrastructure improving incident detection and reducing backend latency 80%
-- Achieved 90% retention over 3 years through strong engineering culture and talent development
-
-**Spring Health** | Senior Software Engineering Manager (Aug 2021 to Oct 2023) | Remote
-- Scaled platform engineering team from 1 to 9 engineers with 90%+ retention rate
-- Built custom EHR system handling patient data for mental health platform serving enterprise customers
-- Designed and deployed observability infrastructure reducing MTBF from 4 to 37 days
-- Reduced infrastructure costs 85% through serverless architecture and database optimization
-
-**Better.com** | Senior Software Engineering Manager (Jan 2021 to Jul 2021) | Remote
-- Managed engineering team through hypergrowth phase, increasing team velocity 30%
-- Optimized PostgreSQL queries for risk metrics calculation, improving performance 40%
-
-**Integral (Ford Autonomous Vehicle Lab)** | Software Engineering Manager (Sep 2019 to Jan 2021) | Remote
-- Led product engineering team building AWS Lambda microservices to capture and process signals from autonomous vehicles
-- Built data analytics pipeline in Python for simulated driving runs
-- Delivered 85% infrastructure cost reduction through serverless multitenant architecture
-
-**CloakHire** | Founder & CTO (Jun 2016 to Mar 2020) | Remote
-- Founded B2B SaaS startup, raised $350K seed funding from institutional investors
-- Built multitenant platform from concept to MVP serving enterprise customers
-- Led all technical decisions, hiring, product strategy, and fundraising efforts
-
-**Deutsche Bank** | Analyst → Associate, Software Development (Sep 2009 to Feb 2012) | New York
-- Built in memory data aggregation framework enabling algorithmic trading developers to create and deploy trading algorithms efficiently, improving Trade Capture performance 90%
-- Designed zero garbage collection systems for high frequency trading environments
-- Developed algorithmic trading systems supporting billions in daily transaction volume
-
-**UBS Investment Bank** | Software Engineering Consultant (Mar 2012 to Jul 2013) | New York
-- Led COBOL to Java migration for back office trading platform processing millions of transactions hourly
-- Architected migration strategies to modernize critical financial operations infrastructure
-- Delivered $2M monthly cost savings while meeting strict security and compliance requirements
+**[SecondBrain](https://github.com/secondbrainhealth/secondbrain)** | 2025
+Bayesian inference platform for GI diagnosis. Built it because getting a gut health diagnosis shouldn't take years. Python, Ruby on Rails, React, Claude/Anthropic API.
 
 ---
 
-## 🌱 Open Source & Community
+## Open Source
 
-**Past Contributions:**
-- **[xiph/flac](https://github.com/xiph/flac):** Contributed Intel threaded optimizations for FLAC lossless audio codec (since replaced with C++17 standard library features). FLAC is widely used for high quality audio compression.
-
-**Current Activity:**
-- **[openemr/openemr](https://github.com/openemr/openemr):** Active user and contributor in the open source electronic medical records space. Contribute general features upstream when identifying improvements during real world usage.
-
-**Note on Repository Activity:**
-- Many of my professional projects are protected by noncompete agreements and remain private
-- Prior work at Deutsche Bank, UBS, Spring Health, Agero, and other companies cannot be made open source due to legal and business constraints
-- This profile showcases leadership, architectural expertise, and contributions where legally permissible
+- **[xiph/flac](https://github.com/xiph/flac):** Intel threaded optimizations for the FLAC audio codec
+- **[openemr/openemr](https://github.com/openemr/openemr):** Contributions to open source electronic medical records
 
 ---
 
-## 🚀 Side Projects
+## Tech
 
-**[SecondBrain](https://github.com/secondbrainhealth/secondbrain)** | Healthcare Diagnostics Platform (2025)
-- Built to solve my own gut health diagnosis challenges where getting answers shouldn't take years
-- Bayesian inference platform for GI diagnosis using odds space mathematics
-- Full stack: Ruby on Rails, React, Python
-- Collaborated with clinical teams to validate diagnostic approach
-- Private repository (proprietary healthcare project)
+Python, Ruby/Rails, Java, JavaScript/React, Go, SQL, AWS, Kubernetes, Docker, Terraform, PostgreSQL, Datadog, GraphQL, Claude/Anthropic API
 
 ---
 
-## 🎓 Education
+## Connect
 
-**Master of Business Administration (MBA)** | University of Michigan, Stephen M. Ross School of Business
-
-**Bachelor of Science in Engineering (BSE), Computer Science** | University of Michigan
-
----
-
-## 🌟 What I'm Working On
-
-**Current Focus:**
-- Scaling authentication and platform engineering for millions of users at Agero
-- Building engineering cultures that balance velocity with reliability and security
-- Exploring modern authentication patterns and zero trust architectures
-- Healthcare technology: diagnostic tools and patient data systems
-- Remote first engineering leadership and team development
-
-**Technical Interests:**
-- Identity and access management at scale
-- Platform engineering and developer experience
-- Healthcare technology and HIPAA compliant systems
-- Observability and system reliability engineering
-- Performance optimization for high scale distributed systems
-
----
-
-## 📊 Leadership Philosophy
-
-**How I Lead Teams:**
-
-Servant leadership approach: I unblock teams, provide context, and enable autonomy rather than dictate solutions. Data driven decision making balanced with qualitative context (numbers tell you what, people tell you why). I focus on building strong engineering culture because culture drives retention, and retention drives outcomes.
-
-My teams balance velocity with quality and business impact. We build for 10x scale but ship incrementally to learn fast and adjust.
-
-**How I Make Technical Decisions:**
-
-I choose proven technology over shiny new tools. Boring tech wins because it's debuggable, maintainable, and has a community when things break.
-
-Observability comes first: instrument everything, debug with data, not guesses. Security and compliance are built in from day one, not bolted on later. I optimize for maintainability and operational simplicity over clever solutions.
-
-I measure what matters: latency (user experience), cost (business impact), reliability (trust), and developer velocity (team health).
-
----
-
-## 📫 Let's Connect
-
-- **LinkedIn:** [linkedin.com/in/maxwell-miller-224779a](https://linkedin.com/in/maxwell-miller-224779a)
+- **LinkedIn:** [maxwell-miller](https://linkedin.com/in/maxwell-miller-224779a)
 - **Email:** maxgeorgemiller@gmail.com
-- **GitHub:** [@mgm1338](https://github.com/mgm1338)
-- **Location:** Detroit Metropolitan Area (open to remote US)
-- **Open to:** Engineering leadership roles (Senior Engineering Manager, Director of Engineering, VP Engineering)
-
-**./max**
-
----
-
-## 💡 About This Profile
-
-This GitHub profile emphasizes engineering leadership, architectural expertise, and problem solving through descriptions of systems built, teams scaled, and business impact delivered. Due to noncompete agreements and proprietary work at previous employers (Deutsche Bank, UBS, Spring Health, Agero, and others), most of my professional projects remain private and cannot be shared publicly.
-
-**What you'll find here:**
-- Limited public repositories (most work is proprietary)
-- Contributions to open source projects where permitted (FLAC, OpenEMR)
-- Demonstrations of technical communication and leadership thinking
-- Side projects in healthcare technology
-
-**Looking for more context?** Happy to discuss:
-- Architecture decisions and technical tradeoffs
-- Scaling engineering teams and building culture
-- Authentication systems and platform infrastructure
-- Healthcare technology and HIPAA compliance
-- Opportunities to build impactful products with great teams
-
----
-
-**Expertise:** Platform Engineering • Identity and Authentication • Healthcare Tech • FinTech • Distributed Systems • Team Leadership • HIPAA Compliance • High Scale Systems
-
-**17 years building teams, systems, and products that matter.**
+- **Location:** Detroit Metro, open to remote US
+- **Open to:** Senior EM, Director, VP Engineering roles
