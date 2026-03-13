@@ -11,9 +11,9 @@ Founded 3 companies. MBA from Michigan Ross. BSE Computer Science from Michigan.
 ## What I've Done
 
 **Agero** | Senior Engineering Manager | 2024 to Present
-- 4 AI features shipped, each saving $300K+/month ($1.2M+ total monthly impact)
-- 10M+ annual requests, 99.99% SLA
-- Evaluate and select AI/ML models for platform integration
+- Lead the highest seniority platform team in the org: 5 Software Architects, 3 senior engineers, 2 QA, and 1 SRE                            
+- Evaluated and selected LLM models, contributing to the company's AI strategy.
+- Launched first 2 product features that did not follow traditional proces. Primary development used of AI & MCP tools to deliver.
 
 **Spring Health** | Associate Director / Senior SEM | 2021 to 2024
 - Scaled platform team from 1 to 25+ engineers, 90%+ retention
