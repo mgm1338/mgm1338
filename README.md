@@ -61,5 +61,5 @@ Python, Ruby/Rails, Java, JavaScript/React, SQL, AWS (Lambda, SQS, EC2, S3, RDS)
 
 - **LinkedIn:** [maxwell-miller](https://linkedin.com/in/maxwell-miller-224779a)
 - **Email:** maxgeorgemiller@gmail.com
-- **Location:** Detroit Metro, open to remote US
-- **Open to:** Senior EM, Director, VP Engineering roles
+- **Location:** Detroit Metro area (hybrid or on-site) or fully remote US
+- **Open to:** Engineering Manager, Senior Engineering Manager, Senior Director, Director of Engineering, Director of Platform Engineering, Director of Data Engineering, VP of Engineering, VP of AI Platform, Head of Engineering, Head of AI, and similar engineering leadership roles
