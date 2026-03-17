@@ -35,12 +35,18 @@ Founded 3 companies. Still write code. MBA from Michigan Ross. BSE Computer Scie
 **CloakHire** | Founder and CTO | Jun 2016 to Mar 2020
 - B2B SaaS. $350K seed. Sole technical leader from concept to production.
 
+**ViewTurn** | Director of Engineering | Dec 2014 to May 2016
+- Founding engineer for B2B SaaS platform serving legal HR professionals, architected AWS infrastructure and React frontend from zero to launch
+- Hired and managed initial engineering team of 3
+
 **Better.com** | Senior Software Engineering Manager | Jan 2021 to Jul 2021
 - Managed team of 6 engineers at mortgage fintech, increasing delivery velocity 30%
 
-**Deutsche Bank / UBS** | 2009 to 2013
-- Zero garbage collection in memory framework for high frequency trading processing billions in daily transaction volume, 90% Trade Capture performance improvement
-- COBOL to Java migration at UBS, $2M per month in cost savings
+**UBS Investment Bank** | Software Engineering Consultant | Mar 2012 to Jul 2013
+- Led COBOL to Java migration for core trading platform, $2M per month in cost savings
+
+**Deutsche Bank** | Associate Software Developer | Jul 2010 to Feb 2012
+- Built zero garbage collection in memory framework for high frequency trading processing billions in daily transaction volume, 90% Trade Capture performance improvement
 
 ---
 
