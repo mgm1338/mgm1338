@@ -35,16 +35,12 @@ Founded 3 companies. Still write code. MBA from Michigan Ross. BSE Computer Scie
 **CloakHire** | Founder and CTO | Jun 2016 to Mar 2020
 - B2B SaaS. $350K seed. Sole technical leader from concept to production.
 
+**Better.com** | Senior Software Engineering Manager | Jan 2021 to Jul 2021
+- Managed team of 6 engineers at mortgage fintech, increasing delivery velocity 30%
+
 **Deutsche Bank / UBS** | 2009 to 2013
 - Zero garbage collection in memory framework for high frequency trading processing billions in daily transaction volume, 90% Trade Capture performance improvement
 - COBOL to Java migration at UBS, $2M per month in cost savings
-
----
-
-## Side Projects
-
-**[SecondBrain](https://github.com/secondbrainhealth/secondbrain)** | 2025 to Present
-Bayesian inference platform for GI diagnosis. Getting a gut health diagnosis shouldn't take years. Python, Ruby on Rails, React, Claude/Anthropic API, PostgreSQL, AWS.
 
 ---
 
