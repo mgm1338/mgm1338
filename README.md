@@ -50,6 +50,16 @@ Founded 3 companies. Still write code. MBA from Michigan Ross. BSE Computer Scie
 
 ---
 
+## Personal Projects
+
+**[Pepper Card Game Engine](https://github.com/maxgeorgemiller/pepper)** | Go, Python, PyTorch
+- Built a 6-player trick-taking card game engine in Go with an HTTP microservice for live play integration
+- Trained AI bots via counterfactual rollout self-play: evaluated every legal move at each decision point across N simulated rollouts, then trained a 2-layer MLP to predict expected score outcomes
+- Tuned a 30+ parameter rule-based strategy through evolutionary search before neural net training
+- Iteratively replaced the rule-based rollout strategy with the trained model each generation, compounding improvements over time
+
+---
+
 ## Open Source
 
 - **[xiph/flac](https://github.com/xiph/flac):** Intel threaded optimizations for the FLAC lossless audio codec
@@ -59,7 +69,7 @@ Founded 3 companies. Still write code. MBA from Michigan Ross. BSE Computer Scie
 
 ## Tech
 
-Python, Ruby/Rails, Java, JavaScript/React, SQL, AWS (Lambda, SQS, EC2, S3, RDS), Kubernetes, Docker, Terraform, PostgreSQL, Datadog, GraphQL, Claude/Anthropic API, MCP, RAG
+Python, Go, Ruby/Rails, Java, JavaScript/React, SQL, AWS (Lambda, SQS, EC2, S3, RDS), Kubernetes, Docker, Terraform, PostgreSQL, Datadog, GraphQL, Claude/Anthropic API, MCP, RAG
 
 ---
 
