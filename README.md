@@ -14,6 +14,7 @@ Founded 3 companies. Still write code. MBA from Michigan Ross. BSE Computer Scie
 - Built a Bayesian inference engine from scratch: probabilistic models, conditional probability, and evidence weighting producing calibrated uncertainty estimates for gut health diagnosis
 - Shipped the complete platform solo, architecture through production: Ruby on Rails, React, Python, PostgreSQL, AWS
 - RAG for medical literature retrieval, MCP for permission scoped auditable AI agent access to patient diagnostic workflows
+- Repos: [secondbrain](https://github.com/secondbrainhealth/secondbrain) | [secondbrain-clinical-bridge](https://github.com/secondbrainhealth/secondbrain-clinical-bridge) | [secondbrain-deployment-scripts](https://github.com/secondbrainhealth/secondbrain-deployment-scripts)
 
 **Agero** | Senior Engineering Manager | Nov 2024 to Mar 2026
 - Led the highest seniority platform team in the org: 5 Software Architects, 3 senior engineers, 2 QA, and 1 SRE at 99.99% SLA on 10M+ annual events
@@ -52,7 +53,7 @@ Founded 3 companies. Still write code. MBA from Michigan Ross. BSE Computer Scie
 
 ## Personal Projects
 
-**[Pepper Card Game Engine](https://github.com/maxgeorgemiller/pepper)** | Go, Python, PyTorch
+**[Pepper Card Game Engine](https://github.com/mgm1338/pepper)** | Go, Python, PyTorch
 - Built a 6-player trick-taking card game engine in Go with an HTTP microservice for live play integration
 - Trained AI bots via counterfactual rollout self-play: evaluated every legal move at each decision point across N simulated rollouts, then trained a 2-layer MLP to predict expected score outcomes
 - Tuned a 30+ parameter rule-based strategy through evolutionary search before neural net training
